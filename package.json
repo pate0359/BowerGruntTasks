@@ -1,0 +1,27 @@
+{
+  "name": "bower_grunt_task",
+  "version": "1.0.0",
+  "description": "To test my awesome Bower and Grunt skills",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-uglify": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pate0359/BowerGruntTasks.git"
+  },
+  "author": "Nignesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pate0359/BowerGruntTasks/issues"
+  },
+  "homepage": "https://github.com/pate0359/BowerGruntTasks"
+}
