@@ -16,6 +16,8 @@ module.exports = function (grunt) {
 				dest: 'dist/js/bootstrap.js'
 			},
 			fonts: {
+				expand: true, 
+				flatten: true,
 				src: 'bower_components/font-awesome/fonts/*',
 				dest: 'dist/fonts/'
 			},
