@@ -8,7 +8,7 @@ module.exports = function (grunt) {
 				dest: 'dist/js/main.js'
 			},
 			bootstrap_css: {
-				src: 'bower_components/bootstrap/dist/bootstrap.css',
+				src: 'bower_components/bootstrap/dist/css/bootstrap.css',
 				dest: 'dist/css/bootstrap.css'
 			},
 			bootstrap_js: {
